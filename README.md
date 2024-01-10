@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Multiplayer Game - README
+# Tic-Tac-Toe Multiplayer Game
 
 ## Overview
 
