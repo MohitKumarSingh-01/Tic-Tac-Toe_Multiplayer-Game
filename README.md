@@ -24,4 +24,4 @@ Welcome to the Tic-Tac-Toe Multiplayer Game! This Unity-based game allows two pl
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-multiplayer.git
+   git clone https://github.com/MohitKumarSingh-01/tic-tac-toe-multiplayer.git
